@@ -1,5 +1,5 @@
 # 🚢 Titanic Passenger Data Dashboard – End to End Analysis & Insights!
-![]()
+![](https://github.com/Ajay96700/Titanic-Passenger-Data-Dashboard-Excel/blob/main/Dashboard%20Image%202.png)
 
 ## Here’s what I did:
 - Explored the data columns — pclass, survived, sex, age, fare, embarked, and more.
